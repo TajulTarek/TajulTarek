@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tarek</h1>
 <h3 align="center">I’m a passionate programmer from Bangladesh with a strong dedication to competitive programming. I love developing innovative solutions and tackling new challenges through code. Always eager to learn and collaborate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajultarek&label=Profile%20views&color=0e75b6&style=flat" alt="tajultarek" /> </p>
