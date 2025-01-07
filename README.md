@@ -1,4 +1,4 @@
-<h3 align="center">IDoing my BSc in CSE at SUST. Have a strong dedication to competitive programming. Experienced in computer vision. </h3>
+<h3 align="center">Doing my BSc in CSE at SUST. Have a strong dedication to competitive programming. Experienced in computer vision. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajultarek&label=Profile%20views&color=0e75b6&style=flat" alt="tajultarek" /> </p>
 
