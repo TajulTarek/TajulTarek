@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajultarek&label=Profile%20views&color=0e75b6&style=flat" alt="tajultarek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajultarek" alt="tajultarek" /></a> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
